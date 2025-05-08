@@ -2,3 +2,7 @@ venv/
 .env
 *.pyc
 __pycache__
+AppData/
+Application Data/
+Cookies/
+Local Settings/
