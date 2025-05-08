@@ -16,4 +16,3 @@ Flask app: http://localhost:5000
 
 Redis CLI: docker exec -it redis_container redis-cli
 
-Flask app: http://localhost:5000
